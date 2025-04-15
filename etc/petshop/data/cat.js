@@ -1,0 +1,26 @@
+const cats = [
+  { name: "나비", age: 3, species: "페르시안", gender: "male" },
+  { name: "미미", age: 2, species: "러시안블루", gender: "female" },
+  { name: "루루", age: 1, species: "샴", gender: "female" },
+  { name: "까미", age: 3, species: "스핑크스", gender: "male" },
+  { name: "보리", age: 2, species: "브리티시숏헤어", gender: "female" },
+  { name: "몽이", age: 1, species: "뱅갈", gender: "female" },
+  { name: "초코", age: 2, species: "아비시니안", gender: "female" },
+  { name: "사랑", age: 1, species: "먼치킨", gender: "female" },
+  { name: "하늘", age: 3, species: "노르웨이숲", gender: "male" },
+  { name: "별이", age: 2, species: "메인쿤", gender: "female" },
+  { name: "달이", age: 1, species: "터키시앙고라", gender: "female" },
+  { name: "나비", age: 3, species: "페르시안", gender: "male" },
+  { name: "미미", age: 2, species: "러시안블루", gender: "female" },
+  { name: "루루", age: 1, species: "샴", gender: "female" },
+  { name: "까미", age: 3, species: "스핑크스", gender: "male" },
+  { name: "보리", age: 2, species: "브리티시숏헤어", gender: "female" },
+  { name: "몽이", age: 1, species: "뱅갈", gender: "female" },
+  { name: "초코", age: 2, species: "아비시니안", gender: "female" },
+  { name: "사랑", age: 1, species: "먼치킨", gender: "female" },
+  { name: "하늘", age: 3, species: "노르웨이숲", gender: "male" },
+  { name: "별이", age: 2, species: "메인쿤", gender: "female" },
+  { name: "달이", age: 1, species: "터키시앙고라", gender: "female" },
+];
+
+module.exports = { cats };
